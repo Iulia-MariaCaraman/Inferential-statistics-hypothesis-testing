@@ -1,4 +1,4 @@
-# Inferential-statistics-hypothesis-testing# Inferential Statistics and Hypothesis Testing in Excel
+# Inferential-statistics-hypothesis-testing Inferential Statistics and Hypothesis Testing in Excel
 
 Practical laboratory examination project prepared for Inferential Statistics at the Faculty of Cybernetics, Statistics and Economic Informatics, ASE Bucharest.
 
